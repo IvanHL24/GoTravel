@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:app_travels/models/travel.dart';
-import 'package:app_travels/travelDetails.dart';
+import 'package:prueba_apk/models/travel.dart';
+import 'package:prueba_apk/travelDetails.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 

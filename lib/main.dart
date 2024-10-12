@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:app_travels/models/BestSeller.dart';
-import 'package:app_travels/models/nacional.dart';
-import 'package:app_travels/models/new.dart';
-import 'package:app_travels/models/internacional.dart';
-import 'package:app_travels/travels.dart';
+import 'package:prueba_apk/models/BestSeller.dart';
+import 'package:prueba_apk/models/nacional.dart';
+import 'package:prueba_apk/models/new.dart';
+import 'package:prueba_apk/models/internacional.dart';
+import 'package:prueba_apk/travels.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 

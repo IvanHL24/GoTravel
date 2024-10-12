@@ -1,5 +1,5 @@
-import 'package:app_travels/models/travelController.dart';
-import 'package:app_travels/models/travelDetail.dart';
+import 'package:prueba_apk/models/travelController.dart';
+import 'package:prueba_apk/models/travelDetail.dart';
 import 'package:flutter/material.dart';
 
 class TravelsDetails extends StatefulWidget {

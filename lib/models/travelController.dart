@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:app_travels/models/travelDetail.dart';
+import 'package:prueba_apk/models/travelDetail.dart';
 import 'package:http/http.dart' as http;
 
 
